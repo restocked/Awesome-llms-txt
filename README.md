@@ -677,6 +677,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [turbo.build](https://turbo.build/llms.txt)
 - [turva.dev (full)](https://turva.dev/llms-full.txt)
 - [turva.dev](https://turva.dev/llms.txt)
+- [tweetapi.com](https://tweetapi.com/llms.txt)
 - [twittershots.com (full)](https://twittershots.com/llms-full.txt)
 - [universalcommerceprotocol.blog](https://universalcommerceprotocol.blog/llms.txt)
 - [unlocksaas.com (full)](https://unlocksaas.com/llms-full.txt)
